@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Developer and graphic-designer🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Figma  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "file:///C:/Users/Gigi/Downloads/Badrinath.S%20-%20CV%20(1).pdf", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1n-caRbfPHMw33Zomy0nwKYvEGAr_pG4B/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
