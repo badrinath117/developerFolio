@@ -162,11 +162,11 @@ const workExperiences = {
       desc: "I updated and kept track of their website",
       descBullets: [
         "I uploaded images on their portfolio page of their website",
-        "I alos uodated their contact information"
+        "I also updated their contact information"
       ]
     },
     {
-      role: "Graphic-Designe",
+      role: "Graphic-Designer",
       company: "Arhats Pranic Healing Institue",
       companylogo: require("./assets/images/pranichealing.png"),
       date: "March-2020 - PRESENT",
